@@ -2,6 +2,7 @@
 #
 # It automatically includes the right mk files depending 
 # on the host and the T
+CC=aarch64-linux-gnu-gcc
 
 # Host OS detection
 ifndef OS
